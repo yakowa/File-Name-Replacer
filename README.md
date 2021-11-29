@@ -29,7 +29,7 @@ git clone https://github.com/yakowa/File-Name-Replacer
 
 ### How to run
 
-Simply run the `run.bat` script, this will open your terminal execuing the script using Python.
+Simply run the `run.bat` script, this will open your terminal executing the script using Python.
 
 Alternatively, you can simply run
 ```bash
