@@ -2,7 +2,7 @@
 
 # File Name Replacer
 
-Replaces files which have spaces in their names with hyphens in a given directory.
+Replaces files that have spaces in their names with hyphens in a given directory.
 
 ![Version: 1.1.0](https://img.shields.io/badge/Version-1.1.0-00e0a7)
 
